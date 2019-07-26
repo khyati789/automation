@@ -14,7 +14,6 @@
 		<cglib.version>2.2.2</cglib.version>
 		<spring-security.version>4.2.3.RELEASE</spring-security.version>
 		<spring-security-kerberos.version>1.0.1.RELEASE</spring-security-kerberos.version>
-		<sqlserver-jdbc.version>4.0</sqlserver-jdbc.version>
 		<hibernate.version>5.2.10.Final</hibernate.version>
 		<hibernate-validator.version>5.4.1.Final</hibernate-validator.version>
 		<commons-dbcp.version>1.4</commons-dbcp.version>
@@ -117,12 +116,7 @@
 			<version>${spring-security-kerberos.version}</version>
 		</dependency>
 
-		<dependency>
-			<groupId>com.microsoft.sqlserver</groupId>
-			<artifactId>sqljdbc4</artifactId>
-			<version>${sqlserver-jdbc.version}</version>
-		</dependency>
-
+		
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-core</artifactId>
