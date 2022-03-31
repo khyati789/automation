@@ -10,7 +10,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-		<spring.version>4.3.9.RELEASE</spring.version>
+		<spring.version>5.3.18</spring.version>
 		<cglib.version>2.2.2</cglib.version>
 		<spring-security.version>4.2.3.RELEASE</spring-security.version>
 		<spring-security-kerberos.version>1.0.1.RELEASE</spring-security-kerberos.version>
